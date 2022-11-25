@@ -37,13 +37,9 @@
 <br>
 
 
-
-
 <!----------------------------------- Project Section ------------------------------------>
 
 <h2><i>My top projects</i></h2>
-
-
 <p align="left">
     <a href="https://github.com/vaibhavk20/pharmeasy_clone" target="blank">
         <img src="https://img.shields.io/badge/-PharmEasy-lightgrey" alt="PharmEasy-Clone" />
@@ -56,16 +52,12 @@
 <br>
 
 
-
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
-
-
-
 <p align="left">
-    <a href="https://linkedin.com/in/m-sehrawat">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+    <a href="https://www.linkedin.com/in/vaibhavk20/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
     <a href="https://vaibhavk20.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
@@ -76,12 +68,7 @@
 </p>
 <br>
 
-
 <br>
-
-
-
-
 
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
@@ -89,9 +76,9 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavk20&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="vaibhavk20" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavk20&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="vaibhavk20" height="140" />
    
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavk20&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="vaibhavk20" height="139" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavk20&layout=compact&hide=Shell&border_radius=0&theme=radical" alt="vaibhavk20" height="140" />
 </p>
 <br>
 
