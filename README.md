@@ -50,7 +50,6 @@
     <a href="https://github.com/Suhaib-Malik01/Fiverr-Clone" target="blank">
         <img src="https://img.shields.io/badge/-Fiverr--Clone-yellowgreen" alt="Fiverr-clone" />
     </a>
-  
 </p>
 <br>
 
@@ -79,9 +78,9 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavk20&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="vaibhavk20" height="140" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavk20&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=20&locale=en&theme=radical" alt="vaibhavk20" height="140" />
    
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavk20&layout=compact&hide=Shell&border_radius=0&theme=radical" alt="vaibhavk20" height="140" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavk20&layout=compact&hide=Shell&border_radius=20&theme=radical" alt="vaibhavk20" height="140" />
 </p>
 <br>
 
@@ -92,10 +91,13 @@
 <h2><i>Top Repositories</i></h2>
 <p>
     <a href="https://github.com/vaibhavk20/Home_Service">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavk20&repo=Home_Service&locale=en&border_radius=0&theme=radical" alt="Home_Service" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavk20&repo=Home_Service&locale=en&border_radius=20&theme=radical" alt="Home_Service" />
     </a>
     <a href="https://github.com/vaibhavk20/pharmeasy_clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavk20&repo=pharmeasy_clone&locale=en&border_radius=0&theme=radical" alt="pharmeasy_clone" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavk20&repo=pharmeasy_clone&locale=en&border_radius=20&theme=radical" alt="pharmeasy_clone" />
+    </a>
+   <a href="https://github.com/Suhaib-Malik01/Fiverr-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suhaib-Malik01&repo=Fiverr-Clone&locale=en&border_radius=20&theme=radical" alt="Fiverr-Clone" />
     </a>
 </p>
 
