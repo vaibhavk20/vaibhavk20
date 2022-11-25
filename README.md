@@ -1,37 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70909&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Vaibhav+Kale;A+Full+Stack+web+Developer)](https://git.io/typing-svg)
+<!-- HEADING -->
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F71044&multiline=true&width=435&lines=Hi%2C+I+am+Vaibhav+Kale;Full+Stack+Web+Developer+(MERN)" alt="Typing SVG" /></a>
 
+<!-- About me -->
+  <h3>
+    <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <p>I have 1200+ hrs hands-on coding experience.</p>
+</h3>
 
-
-
-<div>
-  - 🌱 I’m currently learning **MERN Stack at masai School**
-
-  - 👨‍💻 All of my projects are available at [https://vaibhavk20.github.io/](https://vaibhavk20.github.io/)
-
-  - 💬 Ask me about **JavaScript,React,HTML**
-
-   - 📫 How to reach me **kalevaibhav.@outlook.in**
-  
-  <img align="right" width="300px" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="animated-poster" />
-</div>
-
-
-<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1IG-8d1qZl9S8_uGxvvVmmGV6jRyOAi4g/view?usp=share_link](https://drive.google.com/file/d/1IG-8d1qZl9S8_uGxvvVmmGV6jRyOAi4g/view?usp=share_link) -->
-
-<!-- <img align="right" width="300px" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="animated-poster" /> -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vaibhavk20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavk20" height="30" width="40" /></a>
-</p>
+<img align="right" width="300px" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="animated-poster" />
 
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Tech Stack</i></h2>
-
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -55,8 +38,60 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavk20&show_icons=true&locale=en&layout=compact" alt="vaibhavk20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavk20&show_icons=true&locale=en" alt="vaibhavk20" /></p>
+<!----------------------------------- Project Section ------------------------------------>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavk20&" alt="vaibhavk20" /></p>
+<h2><i>My top projects</i></h2>
+
+
+<p align="left">
+    <a href="https://github.com/vaibhavk20/pharmeasy_clone" target="blank">
+        <img src="https://img.shields.io/badge/-PharmEasy-lightgrey" alt="PharmEasy-Clone" />
+    </a>
+    <a href="https://github.com/Suhaib-Malik01/Fiverr-Clone" target="blank">
+        <img src="https://img.shields.io/badge/-Fiverr--Clone-yellowgreen" alt="Fiverr-clone" />
+    </a>
+  
+</p>
+<br>
+
+
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+
+<p align="left">
+    <a href="https://linkedin.com/in/m-sehrawat">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+    </a>
+    <a href="https://vaibhavk20.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
+    </a>
+    <a title="kalevaibhav@outlook.in" href="mailto:kalevaibhav@outlook.in">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
+    </a>
+</p>
+<br>
+
+
+<br>
+
+
+
+
+
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavk20&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="vaibhavk20" height="139" />
+   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavk20&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="vaibhavk20" height="139" />
+</p>
+<br>
+
