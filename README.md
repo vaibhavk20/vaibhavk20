@@ -1,12 +1,15 @@
 <!-- HEADING -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F71044&multiline=true&width=435&lines=Hi%2C+I+am+Vaibhav+Kale;Full+Stack+Web+Developer+(MERN)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F71044&width=435&lines=Hi%2C+I+am+Vaibhav+Kale" alt="Typing SVG" /></a>
 
 <!-- About me -->
-  <h3>
+<h3>
     <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
-    <p>I have 1200+ hrs hands-on coding experience.</p>
 </h3>
+
+<h3>
+    <i>I have 1200+ hrs hands-on coding experience.</i>
+</h3>
+
 
 <img align="right" width="300px" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="animated-poster" />
 
