@@ -1,4 +1,5 @@
 <!-- HEADING -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F71044&width=435&lines=Hi%2C+I+am+Vaibhav+Kale" alt="Typing SVG" /></a>
 
 <!-- About me -->
@@ -10,10 +11,7 @@
     <i>I have 1200+ hrs hands-on coding experience.</i>
 </h3>
 
-
 <img align="right" width="300px" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="animated-poster" />
-
-
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
@@ -39,20 +37,22 @@
 </p>
 <br>
 
-
 <!----------------------------------- Project Section ------------------------------------>
 
 <h2><i>My top projects</i></h2>
 <p align="left">
-    <a href="https://github.com/vaibhavk20/pharmeasy_clone" target="blank">
+    <a href="https://github.com/vaibhavk20/chat-app" target="blank">
+        <img src="https://img.shields.io/badge/-chat--app-yellowgreen" alt="chat-app" />
+    </a>
+<a href="https://github.com/vaibhavk20/pharmeasy_clone" target="blank">
         <img src="https://img.shields.io/badge/-PharmEasy-lightgrey" alt="PharmEasy-Clone" />
     </a>
     <a href="https://github.com/Suhaib-Malik01/Fiverr-Clone" target="blank">
         <img src="https://img.shields.io/badge/-Fiverr--Clone-yellowgreen" alt="Fiverr-clone" />
     </a>
+
 </p>
 <br>
-
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
@@ -65,13 +65,12 @@
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
     </a>
     <a title="kalevaibhav@outlook.in" href="mailto:kalevaibhav@outlook.in">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kalevaibhav@outlook.in" />
     </a>
 </p>
 <br>
 
 <br>
-
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
@@ -84,21 +83,20 @@
 </p>
 <br>
 
-
-
 <!----------------------------------- Top Repository Section ------------------------------------>
 
 <h2><i>Top Repositories</i></h2>
 <p>
-    <a href="https://github.com/vaibhavk20/Home_Service">
+    <a href="https://github.com/vaibhavk20/chat-app">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavk20&repo=chat-app&locale=en&border_radius=20&theme=radical" alt="chat-app" />
+    </a>
+<a href="https://github.com/vaibhavk20/Home_Service">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavk20&repo=Home_Service&locale=en&border_radius=20&theme=radical" alt="Home_Service" />
     </a>
-     <a href="https://github.com/vaibhavk20/Fiverr-Clone">
+   <a href="https://github.com/vaibhavk20/Fiverr-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavk20&repo=Fiverr-Clone&locale=en&border_radius=20&theme=radical" alt="Fiverr-Clone" />
     </a>
     <a href="https://github.com/vaibhavk20/pharmeasy_clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavk20&repo=pharmeasy_clone&locale=en&border_radius=20&theme=radical" alt="pharmeasy_clone" />
     </a>
 </p>
-
-
